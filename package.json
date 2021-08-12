@@ -1,0 +1,24 @@
+{
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@codersrank/skills-chart": "^0.9.20",
+    "@codersrank/summary": "^0.9.11",
+    "preact": "^10.5.13"
+  },
+  "devDependencies": {
+    "@babel/preset-react": "^7.14.5",
+    "@preact/preset-vite": "^2.0.0",
+    "autoprefixer": "^10.3.1",
+    "vite": "^2.4.4",
+    "vite-plugin-markdown": "^2.0.2"
+  },
+  "browserslist": [
+    "last 2 versions",
+    "iOS >= 8"
+  ]
+}
