@@ -15,3 +15,5 @@ If the job is very well suited for me, and I'm in my comfort zone, I'd love to g
 Have a nerd-tastic day!
 
 Best, [Mads Bram Cordes](https://madco.me)
+
+<a href="https://app.daily.dev/Mobilpadde"><img src="https://api.daily.dev/devcards/62f3c97cb9884981b202ea8a2c7c1d50.png?r=01p" width="400" alt="Mads Bram Cordes's Dev Card"/></a>
